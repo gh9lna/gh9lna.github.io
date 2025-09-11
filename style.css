@@ -15,6 +15,10 @@ body {
   font-size: 1.2em;
 }
 
+#addendum {
+  font-size: 0.3em;
+}
+
 ::selection {
   color: white;
   background-color: #fe3b35;
@@ -36,3 +40,4 @@ a:hover {
   color: #fe3b35;
   font-weight: 700;
 }
+
